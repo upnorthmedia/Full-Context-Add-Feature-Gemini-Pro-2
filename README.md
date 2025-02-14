@@ -2,6 +2,8 @@
 
 A powerful CLI tool that leverages Google's Gemini AI & Repomix to analyze your codebase and generate feature implementations.
 
+![Full Context Gemini](https://doecjmzbtppspwljuchu.supabase.co/storage/v1/object/public/images//full-context-gemini.png)
+
 ## ✨ Features
 
 - 🔍 Analyzes your entire codebase structure using repomix
