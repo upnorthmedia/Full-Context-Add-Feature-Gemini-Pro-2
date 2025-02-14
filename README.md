@@ -1,4 +1,4 @@
-# 🚀 Gemini Feature Generator
+# 🚀 Full Context Gemini Feature Generator
 
 A powerful CLI tool that leverages Google's Gemini AI & Repomix to analyze your codebase and generate feature implementations.
 
